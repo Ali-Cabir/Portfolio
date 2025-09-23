@@ -1,2 +1,11 @@
 @import "jekyll-theme-slate";
 
+#main_content {
+  font-size: 18px;
+  line-height: 1.6; /* makes text more readable */
+}
+
+#main_content p {
+  font-size: 18px;
+  margin-bottom: 1em;
+}
