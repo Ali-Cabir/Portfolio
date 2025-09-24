@@ -1,29 +1,4 @@
-----
-----
-
-@import "jekyll-theme-slate";
-
-/* ----- Font Size Control ----- */
-:root {
-  --portfolio-font-size: 160px;  /* Change this value to resize text */
-  --portfolio-line-height: 1.6; /* Optional: adjust readability */
+body {
+  ...
+  font: 18px/1.4;
 }
-
-/* Apply to your portfolio content */
-.portfolio-content {
-  font-size: var(--portfolio-font-size);
-  line-height: var(--portfolio-line-height);
-}
-
-/* Optional: fine-tune paragraphs, headings, tables */
-.portfolio-content p {
-  margin-bottom: 1em;
-}
-
-.portfolio-content h1, 
-.portfolio-content h2, 
-.portfolio-content h3 {
-  line-height: 1.2;
-}
-
-
