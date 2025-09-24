@@ -1,28 +1,24 @@
----
----
-// Override theme defaults by setting variables *before* the theme is imported.
-// The default Minima font size is 16px.
-$base-font-size: 168px;
+@import "jekyll-theme-slate";
 
-// The @import must be after the variable overrides.
-@import "slate";
-
-/*
-  Add any custom CSS rules here.
-  These will apply *after* the theme's default styles,
-  overwriting them if a rule targets the same element.
-*/
-.site-header {
-  font-size: 1.25em; // Example: increase the size of the site title/header
+/* ----- Font Size Control ----- */
+:root {
+  --portfolio-font-size: 16px;  /* Change this value to resize text */
+  --portfolio-line-height: 1.6; /* Optional: adjust readability */
 }
 
-.highlight {
-  font-size: 1.1em; // Increase the font size inside code blocks
+/* Apply to your portfolio content */
+.portfolio-content {
+  font-size: var(--portfolio-font-size);
+  line-height: var(--portfolio-line-height);
 }
 
-p {
-  line-height: 1.6; // Adjust line height for better readability with larger fonts
+/* Optional: fine-tune paragraphs, headings, tables */
+.portfolio-content p {
+  margin-bottom: 1em;
 }
 
-
-
+.portfolio-content h1, 
+.portfolio-content h2, 
+.portfolio-content h3 {
+  line-height: 1.2;
+}
