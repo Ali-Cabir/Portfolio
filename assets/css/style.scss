@@ -1,10 +1,26 @@
-#main_content {
-  font-size: 160px !important;
-  line-height: 1.6 !important; /* adjust text readability */
+---
+---
+// Override theme defaults by setting variables *before* the theme is imported.
+// The default Minima font size is 16px.
+$base-font-size: 18px;
+
+// The @import must be after the variable overrides.
+@import "slate";
+
+/*
+  Add any custom CSS rules here.
+  These will apply *after* the theme's default styles,
+  overwriting them if a rule targets the same element.
+*/
+.site-header {
+  font-size: 1.25em; // Example: increase the size of the site title/header
 }
 
-#main_content p {
-  font-size: 106px !important;
-  margin-bottom: 1em !important;
+.highlight {
+  font-size: 1.1em; // Increase the font size inside code blocks
+}
+
+p {
+  line-height: 1.6; // Adjust line height for better readability with larger fonts
 }
 
