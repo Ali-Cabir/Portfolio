@@ -1,15 +1,9 @@
----
----
 #main_content {
-  font-size: 16px;
-  line-height: 1.6; /* makes text more readable */
+  font-size: 16px !important;
+  line-height: 1.6 !important; /* adjust text readability */
 }
 
 #main_content p {
-  font-size: 16px;
-  margin-bottom: 1em;
+  font-size: 16px !important;
+  margin-bottom: 1em !important;
 }
-
-
-
-
