@@ -11,8 +11,9 @@ A simple To-Do List web app tested using CRUD operations. Focused on functional,
 
 ### 2. Postman API Testing (ReqRes)
 Performed manual API testing using Postman against the ReqRes.in REST API. Validated endpoints for user management, authentication, and resource retrieval while practicing positive and negative test cases, response validation, and error handling.
+
 <a href="Postman API (ReqRes).json" download="ReqRes.postman_collection.json">
-  👉 Download the Postman Collection
+   Download the Postman Collection
 </a>
 
 
