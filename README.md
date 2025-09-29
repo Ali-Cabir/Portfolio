@@ -13,7 +13,7 @@ A simple To-Do List web app tested using CRUD operations. Focused on functional,
 I created a Postman collection to test common API requests against the ReqRes API.  
 👉 [Download the Postman Collection](https://github.com/Ali-Cabir/Portfolio/blob/main/Postman%20API%20(ReqRes).json)
 
-<a href="https://github.com/Ali-Cabir/Portfolio/raw/main/API-Testing-ReqRes/ReqRes.postman_collection.json" download="ReqRes.postman_collection.json">
+<a href="https://github.com/Ali-Cabir/Portfolio/raw/main/API-Testing-ReqRes/ReqRes.postman_collection.json" download="Postman API (ReqRes).json">
   👉 Download the Postman Collection
 </a>
 
