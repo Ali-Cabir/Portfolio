@@ -10,7 +10,8 @@ A simple To-Do List web app tested using CRUD operations. Focused on functional,
 * [Test report](https://docs.google.com/document/d/14UhrqB_8Gk1_xQueX4jv-R2mEtUJYslK51G1ZNYBGkQ/edit?usp=drive_link)
 
 ### 2. Postman API Testing (ReqRes)
-
+I created a Postman collection to test common API requests against the ReqRes API.  
+👉 [Download the Postman Collection](https://github.com/Ali-Cabir/Portfolio/blob/main/Postman%20API%20(ReqRes).json)
 
 ## Tools
 * Jira, Trello - project management
