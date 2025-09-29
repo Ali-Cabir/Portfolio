@@ -15,7 +15,7 @@ Performed manual API testing using Postman against the ReqRes.in REST API. Valid
 * [View the project in Postman](https://alicabir27-251890.postman.co/workspace/Ali-Cabir's-Workspace~12941f2f-edeb-48b4-895f-593854e02e5e/collection/48822952-dd6e66b7-eef0-4b4a-a647-566ca123bdb7?action=share&creator=48822952&active-environment=48822952-24b8c0be-662c-4819-a152-1fe0e1ec6cca)
 
 <a href="Postman API (ReqRes).json" download="ReqRes.postman_collection.json">
-   Download the JSON file
+   * Download the JSON file
 </a>
 
 
