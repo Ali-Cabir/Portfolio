@@ -9,7 +9,7 @@ A simple To-Do List web app tested using CRUD operations. Focused on functional,
 * [Bug reports](https://docs.google.com/spreadsheets/d/1-ymB3A4CROFiyAhVsiBvwIG_nxokMMHZ2tdooVNqZMk/edit?usp=drive_link)
 * [Test report](https://docs.google.com/document/d/14UhrqB_8Gk1_xQueX4jv-R2mEtUJYslK51G1ZNYBGkQ/edit?usp=drive_link)
 
-### 2. Temp (Automated Testing)
+### 2. Postman API Testing (ReqRes)
 
 
 ## Tools
