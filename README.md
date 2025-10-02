@@ -13,7 +13,7 @@ A simple To-Do List web app tested using CRUD operations. Focused on functional,
 Performed manual API testing using Postman against the ReqRes.in REST API. Validated endpoints for user management, authentication, and resource retrieval while practicing positive and negative test cases, response validation, and error handling.
 
 * [View the project in Postman](https://alicabir27-251890.postman.co/workspace/Trello-API~3f2f1326-7cb8-429a-b878-8755aefe984a/collection/48822952-3fe0a935-1877-4923-b4e4-e012eb85e964?action=share&source=copy-link&creator=48822952)
-* <a href="Postman API (ReqRes).json" download="ReqRes.postman_collection.json">
+* <a href="Trello APIs.postman_collection.json" download="ReqRes.postman_collection.json">
    Download the JSON file
 </a>
 
