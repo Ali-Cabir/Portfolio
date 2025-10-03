@@ -17,9 +17,6 @@ Tested Trello’s REST API using Postman by sending and validating requests for 
    Download the JSON file
 </a>
 
-### 3. Automation Placeholder
-
-
 ## Tools
 * Jira, Trello - project management
 * Confluence - storing informations and documents about project
@@ -45,5 +42,3 @@ Tested Trello’s REST API using Postman by sending and validating requests for 
 * experience with testing SaaS web applications
 * performing smoke tests
 * scrum workflow
-  
-## Certificates
